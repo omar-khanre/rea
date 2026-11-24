@@ -336,15 +336,7 @@ to improve the code or docs.
 See [CONTRIBUTING.md](CONTRIBUTING.md) for development setup and checks. See the
 [testing guide](docs/development/testing.md) for verification lanes.
 
-## Disclaimer
 
-See [DISCLAIMER.md](DISCLAIMER.md) for responsible-use guidance.
-
-The project's position on illegal or unauthorized use covers all REA versions,
-distribution channels, and platforms; each copy retains its applicable licenses.
-
-REA is for lawful research, education, interoperability, software preservation,
-and analysis of software you own or are authorized to examine.
 
 ## License
 
